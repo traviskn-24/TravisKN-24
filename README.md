@@ -6,14 +6,14 @@
    ██║   ██║  ██║██║  ██║ ╚████╔╝ ██║███████║
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝
 
-### 20yo dev from South Africa 🇿🇦 &nbsp;·&nbsp; Full-stack & game dev &nbsp;·&nbsp; I build things, break them, then build them better.
+20yo dev from South Africa 🇿🇦 &nbsp;·&nbsp; Full-stack & game dev &nbsp;·&nbsp; I build things, break them, then build them better.
 
 </div>
 
 
 // About Me
 
-Started coding at 12 just messing around — now I'm making it official with a BSc in IT.
+Started coding at 12 just messing around, now I'm making it official studying for a Degree in IT.
 I'm focused on full-stack development but game dev has always had a piece of me too.
 I like building things that actually get used, not just things that look good in a repo.
 
