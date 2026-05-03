@@ -27,12 +27,15 @@ I like building things that actually get used, not just things that look good in
 
 > Currently learning ↑
 
+
 # Things I've Built
 
 | Project | What it is | Status |
 |---|---|---|
 | 🎬 [OvieTV](https://ovietv.xyz) | Streaming aggregator site | Live & deployed |
+| 🐦 [Flappy Bird Cute Version](https://traviskn-24.github.io/Flappy-Bird-Cute-Version/) | Custom Flappy Bird remake with a cleaner aesthetic | Live & playable |
 | 🃏 HiLo | Mobile card game built in Unity | Coming to GitHub |
+
 
 # GitHub Stats
 
