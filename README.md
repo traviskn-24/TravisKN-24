@@ -37,15 +37,6 @@ I like building things that actually get used, not just things that look good in
 | 🃏 HiLo | Mobile card game built in Unity | Coming to GitHub |
 
 
-# GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TravisKN-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04080f&title_color=00e5ff&icon_color=2979ff&text_color=dceeff" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisKN-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=04080f&title_color=00e5ff&text_color=dceeff" height="160"/>
-</div>
-
-
 # Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-04080f?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://traviskn-24.github.io)
