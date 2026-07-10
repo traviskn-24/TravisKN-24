@@ -39,7 +39,7 @@ I like building things that actually get used, not just things that look good in
 
 # Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-04080f?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://traviskn-24.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-04080f?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://traviskn-24.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-04080f?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:keanlee79@gmail.com)
 
 <div align="center">
