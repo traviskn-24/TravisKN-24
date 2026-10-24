@@ -9,7 +9,7 @@
 
 ## About
 
-I started coding at 12 out of curiosity, and now I’m studying toward an IT degree. I enjoy building useful things across web, mobile, and games—then learning from every version I ship.
+I started coding at 12 out of curiosity, and now I’m studying toward an IT degree. I enjoy building useful things across web, mobile, and games-then learning from every version I ship.
 
 ## Languages & tools
 
