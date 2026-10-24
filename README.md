@@ -21,7 +21,7 @@ I started coding at 12 out of curiosity, and now I’m studying toward an IT deg
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks and platforms:** React · Unity · Flet · Chrome Extensions
+**Frameworks and platforms:** React · Godot · Flet
 
 ## Selected projects
 
